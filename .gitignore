@@ -5,3 +5,7 @@ dist
 .env
 
 package-lock.json
+
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/crmTattoo-backend.iml
